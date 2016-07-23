@@ -6,7 +6,8 @@
  * http://www.adafruit.com
  * https://learn.adafruit.com/adafruit-led-backpack
  * 
- * 
+ * Displays a crude, basic rendition of a Cylon from Battlestar Galactica
+ * "Eye" scans left to right, right to left.
  */
 
 #include <Wire.h>
