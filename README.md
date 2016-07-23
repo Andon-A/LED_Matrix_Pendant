@@ -5,7 +5,7 @@ Shop Link: http://shop.matchfire.net/electronics/led-matrix-pendant.html
 
 To view and edit the PCB, the PCBWeb program is required. It is free and available at http://www.pcbweb.com
 
-Source code still in development and not included yet.
+Several basic programs included to get you started on your own code.
 
 The LED Matrix Pendant includes a 5v step up voltage regulator, with a working input voltage from 0.8v to 5v. Exceeding 5v can cause damage to the device! 
 
